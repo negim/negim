@@ -12,8 +12,6 @@
 
 🕐 Previously: Managing/developing Enterprise Applications (PeopleSoft, Oracle)
 
-👶 A father of two .
-
 🌱 Learning AI, Machine Learning, Python.
 
 :joystick: Play: Rage of Cars, Kids Games.
