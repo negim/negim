@@ -2,7 +2,7 @@
 
 ![Mario waves hello](https://media.giphy.com/media/euAnOkLGWtdHG/giphy.gif)
 
-:wave: I'm an architect at :octocat: Aristocrat building cool stuff.
+:wave: I'm an architect at :octocat:  building cool stuff.
 
 :house: I live in India with family; as consultant been to couple of places.
 
@@ -23,3 +23,4 @@
 ## Contact Me
 
 * negi2u@gmail.com
+
